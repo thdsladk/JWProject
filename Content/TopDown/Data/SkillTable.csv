@@ -1,0 +1,5 @@
+---,ID,Type,Name,Description,EffectType,EffectCoolTime,EffectDurationTime,EffectIntensity,Icon
+Attack,"0","0","Attack","","0","0","0","1","/Script/Engine.Texture2D'/Game/TopDown/Icons/Skill/Icon_Skill_Sword_Swing.Icon_Skill_Sword_Swing'"
+Smash,"0","0","Smash","","0","2","1","2","/Script/Engine.Texture2D'/Game/TopDown/Icons/Skill/Icon_Skill_Sword_Smash.Icon_Skill_Sword_Smash'"
+Defense,"0","0","Defense","","0","0","5","2","/Script/Engine.Texture2D'/Game/TopDown/Icons/Skill/Icon_Skill_Sword_Defence.Icon_Skill_Sword_Defence'"
+Shout,"0","0","Shout","","0","0","5","0","/Script/Engine.Texture2D'/Engine/EngineResources/AICON-Red.AICON-Red'"

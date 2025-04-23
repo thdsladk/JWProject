@@ -1,0 +1,11 @@
+---,ID,Type,Name,Description,MaxCount,Scale,EffectType,EffectTime,EffectIntensity,Thumbnail,ItemMesh
+Item1,"0","1","Apple","Fruit","100","2","1","0","0","/Script/Engine.Texture2D'/Game/TopDown/Icons/Asset_Apple.Asset_Apple'","/Script/Engine.StaticMesh'/Game/MS_Fruits/3D_Asset/21_Red_Apple_tegqfetla/tegqfetla_LOD0.tegqfetla_LOD0'"
+Item2,"1","0","Goblin_Sword","Goblin_Sword","1","1","0","0","0","/Script/Engine.Texture2D'/Game/TopDown/Files/Sword_Goblin.Sword_Goblin'","/Script/Engine.StaticMesh'/Game/Goblin/Mesh/Weapons/SM_Weapons/SM_Sword.SM_Sword'"
+Item3,"2","0","Goblin_Axe","Goblin_Axe","1","1","0","0","0","/Script/Engine.Texture2D'/Game/TopDown/Files/Axe_Goblin.Axe_Goblin'","/Script/Engine.StaticMesh'/Game/Goblin/Mesh/Weapons/SM_Weapons/SM_Axe.SM_Axe'"
+Item4,"5","0","Goblin_Shield01","Goblin_Shield01","1","1","0","0","0","/Script/Engine.Texture2D'/Game/TopDown/Icons/Shield01_Goblin.Shield01_Goblin'","/Script/Engine.StaticMesh'/Game/Goblin/Mesh/Weapons/SM_Weapons/SM_Shield.SM_Shield'"
+Item5,"6","0","Goblin_Shield02","Goblin_Shield02","1","1","0","0","0","/Script/Engine.Texture2D'/Game/TopDown/Icons/Shield02_Goblin.Shield02_Goblin'","/Script/Engine.StaticMesh'/Game/Goblin/Mesh/Weapons/SM_Weapons/SM_Shield_v2.SM_Shield_v2'"
+Item6,"7","1","HP_Potion","fill HP","1","1","1","0","0","/Script/Engine.Texture2D'/Game/2DIconsMinipack-Potions/256x256/HealthPotions/T_MinorHealthPotion.T_MinorHealthPotion'","/Script/Engine.StaticMesh'/Game/TopDown/Item/Potion/Source/PotionA.PotionA'"
+Item7,"8","1","MP_Potion","fill MP","1","1","1","0","0","/Script/Engine.Texture2D'/Game/2DIconsMinipack-Potions/256x256/ManaPotions/T_GreatManaPotion.T_GreatManaPotion'","/Script/Engine.StaticMesh'/Game/TopDown/Item/Potion/Source/PotionB.PotionB'"
+Item8,"9","1","SP_Potion","fill SP","1","1","1","0","0","/Script/Engine.Texture2D'/Game/2DIconsMinipack-Potions/128x128/NewPotrions/T_RessurectionPotion_1.T_RessurectionPotion_1'","/Script/Engine.StaticMesh'/Game/TopDown/Item/Potion/Source/PotionC.PotionC'"
+Item9,"10","1","Attack_Scroll","AttackUp","1","1","1","0","10","None","None"
+Item10,"11","1","Defence_Scroll","DefenceUp","1","1","0","0","5","/Script/Engine.Texture2D'/Game/Goblin/Textures/Goblin_Wizard/T_Wizard_scroll_D.T_Wizard_scroll_D'","None"

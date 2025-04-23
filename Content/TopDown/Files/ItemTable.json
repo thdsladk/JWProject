@@ -1,0 +1,42 @@
+[
+	{
+		"Name": "0",
+		"ID": 0,
+		"Description": "Fruit",
+		"MaxCount": 100,
+		"Thumbnail": "/Script/Engine.Texture2D'/Game/TopDown/Icons/Asset_Apple.Asset_Apple'",
+		"ItemMesh": "/Script/Engine.StaticMesh'/Game/MS_Fruits/3D_Asset/21_Red_Apple_tegqfetla/tegqfetla_LOD0.tegqfetla_LOD0'"
+	},
+	{
+		"Name": "1",
+		"ID": 1,
+		"Description": "Goblin_Sword",
+		"MaxCount": 1,
+		"Thumbnail": "/Script/Engine.Texture2D'/Game/TopDown/Files/Sword_Goblin.Sword_Goblin'",
+		"ItemMesh": "/Script/Engine.StaticMesh'/Game/Goblin/Mesh/Weapons/SM_Weapons/SM_Sword.SM_Sword'"
+	},
+	{
+		"Name": "2",
+		"ID": 2,
+		"Description": "Goblin_Axe",
+		"MaxCount": 1,
+		"Thumbnail": "/Script/Engine.Texture2D'/Game/TopDown/Files/Axe_Goblin.Axe_Goblin'",
+		"ItemMesh": "/Script/Engine.StaticMesh'/Game/Goblin/Mesh/Weapons/SM_Weapons/SM_Axe.SM_Axe'"
+	},
+	{
+		"Name": "5",
+		"ID": 5,
+		"Description": "Goblin_Shield01",
+		"MaxCount": 1,
+		"Thumbnail": "/Script/Engine.Texture2D'/Game/TopDown/Icons/Shield01_Goblin.Shield01_Goblin'",
+		"ItemMesh": "/Script/Engine.StaticMesh'/Game/Goblin/Mesh/Weapons/SM_Weapons/SM_Shield.SM_Shield'"
+	},
+	{
+		"Name": "6",
+		"ID": 6,
+		"Description": "Goblin_Shield02",
+		"MaxCount": 1,
+		"Thumbnail": "/Script/Engine.Texture2D'/Game/TopDown/Icons/Shield02_Goblin.Shield02_Goblin'",
+		"ItemMesh": "/Script/Engine.StaticMesh'/Game/Goblin/Mesh/Weapons/SM_Weapons/SM_Shield_v2.SM_Shield_v2'"
+	}
+]
